@@ -68,6 +68,7 @@ const siteConfig = {
 
     socialMedia: {
         linkedin: 'brandon-adrian-957b511ba',
+        twitter: '',
         github: 'bradrian',
     },
 
